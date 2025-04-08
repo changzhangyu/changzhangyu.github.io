@@ -22,10 +22,10 @@ repository               : "changzhangyu/changzhangyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Chang, Zhangyu 常章豫"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. in Computer Science"
   location         : "Shanghai, China"
   employer         : # "The Hong Kong University of Science and Technology"
   uri              : # URL
