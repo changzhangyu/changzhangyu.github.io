@@ -27,4 +27,5 @@ redirect_from:
 
 ### Others
 
-1. Ph.D. Qualifying Exam: "Video Replication and Access over Fog-based Architecture".
+1. Ph.D. Qualifying Exam: "[Video Replication and Access over Fog-based Architecture](files/fog_survey/main.pdf)".
+2. Ph.D. Thesis: "[Approximation Algorithms for Auto-Scaling Video Cloud](files/thesis.pdf)".
