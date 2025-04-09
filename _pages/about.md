@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 * I have received my Ph.D. degree in December 2023 from the [Department of Computer Science and Engineering](https://www.cse.ust.hk/), [the Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/).
 * My thesis supervisor is [Prof. S.-H. Gary Chan](http://www.cse.ust.hk/~gchan/).
 * I received the B.Sc. degree (highest honor) in Physics and Computer Science (double major), and the M.Phil. degree in Computer Science and Engineering from HKUST in 2011 and 2015, respectively.
