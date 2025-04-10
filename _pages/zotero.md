@@ -1,9 +1,8 @@
 ---
-permalink: /
+permalink: /zotero/
 title: "Zotero: a Bibliography Management System"
 author_profile: true
 redirect_from: 
-  - /zotero/
   - /zotero.html
 ---
 
