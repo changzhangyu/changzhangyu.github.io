@@ -1,10 +1,10 @@
 ---
-permalink: /cv/
-title: "Curriculum Vitae"
+permalink: /zh/
+title: "简历-常章豫"
 author_profile: true
 redirect_from:
-  - /resume/
-  - /cv.html
+  - /cv_zh/
+  - /cv_zh.html
 ---
 
 {% include base_path %}
