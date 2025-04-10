@@ -14,18 +14,18 @@ redirect_from:
 
 ## Publications
 
-### Journal publications
+### Journal Publications
 
 1. **Z. Chang** and S.-H. G. Chan, "[Bi-Criteria Approximation for a Multi-Origin Multi-Channel Auto-Scaling Live Streaming Cloud](http://www.cse.ust.hk/~gchan/papers/TMM23_COCOS.pdf)," *IEEE Transactions on Multimedia*, Vol. 25, pp. 2839-2850, July 2023. \[Online\]. Available: [https://doi.org/10.1109/TMM.2022.3152093](https://doi.org/10.1109/TMM.2022.3152093)
-2. **Z. Chang** and S.-H. G. Chan, "[An Approximation Algorithm to Maximize User Capacity for an Auto-scaling VoD System](http://www.cse.ust.hk/~gchan/papers/TMM21_AVARDO.pdf)," *IEEE Transactions on Multimedia*, Vol. 23, pp. 3714-3725, October 2021. \[Online\]. Available: [https://doi.org/10.1109/TMM.2020.3031068](https://doi.org/10.1109/TMM.2020.3031068)
-3. **Z. Chang**  and S.-H. G. Chan, "[Video Management and Resource Allocation for a Large-Scale VoD Cloud](http://www.cse.ust.hk/~gchan/papers/TOMM16_RAVO.pdf)," *ACM Transactions on Multimedia Computing, Communication and Applications (TOMM) Special Issue on Multimedia Big Data: Networking*, vol. 12, pp72:1-72:21, Sept. 2016. \[Online\]. Available: [https://doi.org/10.1145/2983638](https://doi.org/10.1145/2983638)
-4. **Z. Chang** and S.-H. G. Chan, "[Bucket-Filling: An Asymptotically Optimal VoD Network with Source Coding](http://www.cse.ust.hk/~gchan/papers/TMM15_BF.pdf)," *IEEE Transactions on Multimedia*, Vol. 17, No. 5, pp. 723-735, May 2015. \[Online\]. Available: [https://doi.org/10.1109/TMM.2015.2416636](https://doi.org/10.1109/TMM.2015.2416636)
+2. **Z. Chang** and S.-H. G. Chan, "[An Approximation Algorithm to Maximize User Capacity for an Auto-scaling VoD System](http://www.cse.ust.hk/~gchan/papers/TMM21_AVARDO.pdf)," *IEEE Transactions on Multimedia*, Vol. 23, pp. 3714-3725, October 2021. \[Online\]. Available: [https://doi.org/10.1109/TMM.2020.3031068](https://doi.org/10.1109/TMM.2020.3031068) \[[Slide](files\AVARDO\AVARDO.pptx) ([PDF](files\AVARDO\AVARDO.pdf))\]
+3. **Z. Chang**  and S.-H. G. Chan, "[Video Management and Resource Allocation for a Large-Scale VoD Cloud](http://www.cse.ust.hk/~gchan/papers/TOMM16_RAVO.pdf)," *ACM Transactions on Multimedia Computing, Communication and Applications (TOMM) Special Issue on Multimedia Big Data: Networking*, vol. 12, pp72:1-72:21, Sept. 2016. \[Online\]. Available: [https://doi.org/10.1145/2983638](https://doi.org/10.1145/2983638) \[[Slide](files\RAVO\RAVO.pptx) ([PDF](files\RAVO\RAVO.pdf))\]
+4. **Z. Chang** and S.-H. G. Chan, "[Bucket-Filling: An Asymptotically Optimal VoD Network with Source Coding](http://www.cse.ust.hk/~gchan/papers/TMM15_BF.pdf)," *IEEE Transactions on Multimedia*, Vol. 17, No. 5, pp. 723-735, May 2015. \[Online\]. Available: [https://doi.org/10.1109/TMM.2015.2416636](https://doi.org/10.1109/TMM.2015.2416636) \[[Slide](files\bucket_filling\BucketFilling2.pptx) ([PDF](files\bucket_filling\BucketFilling2.pdf))|[MPhil Thesis](files\bucket_filling\thesis.pdf)\]
 
-### Conference publications
+### Conference Publications
 
-1. J. Dai, **Z. Chang**, and S.-H. G. Chan, "[Delay Optimization for Multi-source Multi-channel Overlay Live Streaming](http://www.cse.ust.hk/~gchan/papers/ICC15_MSMC.pdf)," in *Proceedings of IEEE ICC 2015 - Communications Software, Services and Multimedia Applications Symposium (ICC'15)*, (London, United Kingdom), pp. 8587-8592, 8-12, June 2015. \[Online\]. Available: [https://doi.org/10.1109/ICC.2015.7249435](https://doi.org/10.1109/ICC.2015.7249435)
+1. J. Dai, **Z. Chang**, and S.-H. G. Chan, "[Delay Optimization for Multi-source Multi-channel Overlay Live Streaming](http://www.cse.ust.hk/~gchan/papers/ICC15_MSMC.pdf)," in *Proceedings of IEEE ICC 2015 - Communications Software, Services and Multimedia Applications Symposium (ICC'15)*, (London, United Kingdom), pp. 8587-8592, 8-12, June 2015. \[Online\]. Available: [https://doi.org/10.1109/ICC.2015.7249435](https://doi.org/10.1109/ICC.2015.7249435) \[[Slide](files\COMMOS\COMMOS.pptx) ([PDF](files\COMMOS\COMMOS.pdf))\]
 
 ### Others
 
-1. Ph.D. Qualifying Exam: "[Video Replication and Access over Fog-based Architecture](files/fog_survey/main.pdf)".
-2. Ph.D. Thesis: "[Approximation Algorithms for Auto-Scaling Video Cloud](files/thesis.pdf)".
+1. Ph.D. Qualifying Exam: "[Video Replication and Access over Fog-based Architecture](files/fog_survey/main.pdf)". \[[Slide](files\fog_survey\FogSurvey.pptx) ([PDF](files\fog_survey\FogSurvey.pdf))\]
+2. Ph.D. Thesis: "[Approximation Algorithms for Auto-Scaling Video Cloud](files/thesis/main.pdf)". \[[Slide](files\thesis\thesis.pptx) ([PDF](files\thesis\thesis.pdf))\]
