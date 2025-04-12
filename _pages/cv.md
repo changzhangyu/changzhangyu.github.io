@@ -39,7 +39,7 @@ redirect_from:
   * **Overseas Exchange Program** for 1 Semester
   * Grade Point Average: **A- (83/100)**
 
-## Work experience
+## Work Experience
 
 * **Jun 2018 - Aug 2018** Online Media Group, Tencent Video (Internship)
   * Optimizing the Performance of P2P and Edge Network for Video Distribution
