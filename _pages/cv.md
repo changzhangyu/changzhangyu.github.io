@@ -22,12 +22,12 @@ redirect_from:
 * **Aug 2015 - Dec 2023** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
   * [Department of Computer Science and Engineering (CSE)](http://www.cse.ust.hk)
   * **Doctor of Philosophy** in Computer Science
-  * Supervisor: Prof. Shueng-Han Gary Chan
+  * Supervisor: Prof. [Shueng-Han Gary Chan](http://www.cse.ust.hk/~gchan/)
 
 * **Sep 2011 - Aug 2015** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
   * [Department of Computer Science and Engineering (CSE)](http://www.cse.ust.hk)
   * **Master of Philosophy** in Computer Science
-  * Supervisor: Prof. Shueng-Han Gary Chan
+  * Supervisor: Prof. [Shueng-Han Gary Chan](http://www.cse.ust.hk/~gchan/)
 
 * **Sep 2007 - Aug 2011** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
   * [Department of Physics](http://physics.ust.hk/)
