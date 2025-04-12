@@ -19,18 +19,18 @@ redirect_from:
 
 ## 教育经历
 
-* **2015年8月 - 2023年12月** [香港科技大学（HKUST）](http://www.ust.hk/)[计算机科学及工程系（CSE）](http://www.cse.ust.hk)
+* **2015年8月 - 2023年12月** [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
   * 计算机科学**博士**
-  * 导师: 陈双幸 教授
+  * 导师: [陈双幸](http://www.cse.ust.hk/~gchan/)教授
 
-* **2011年9月 - 2015年8月** [香港科技大学（HKUST）](http://www.ust.hk/)[计算机科学及工程系（CSE）](http://www.cse.ust.hk)
+* **2011年9月 - 2015年8月** [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
   * 计算机科学**硕士（研究型）**
-  * 导师: 陈双幸 教授
+  * 导师: [陈双幸](http://www.cse.ust.hk/~gchan/)教授
 
-* **2010年1月 - 2010年4月** [滑铁卢大学（加拿大）](https://uwaterloo.ca/)[数学学院](https://uwaterloo.ca/math/)
+* **2010年1月 - 2010年4月** [滑铁卢大学（加拿大）](https://uwaterloo.ca/) [数学学院](https://uwaterloo.ca/math/)
   * **海外学生交换项目** 学期平均成绩: **A- (83/100)**
 
-* **2007年9月 - 2011年8月** [香港科技大学（HKUST）](http://www.ust.hk/)[物理学系](http://physics.ust.hk/)
+* **2007年9月 - 2011年8月** [香港科技大学（HKUST）](http://www.ust.hk/) [物理学系](http://physics.ust.hk/)
   * **双主修项目**物理学及计算机科学**理学士**
   * **甲等荣誉学位** 毕业平均成绩: **A (3.900)**
 
