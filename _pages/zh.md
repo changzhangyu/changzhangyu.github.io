@@ -13,15 +13,15 @@ redirect_from:
 
 ### 期刊论文
 
-{% include journal.md %}
+{% include publications/journal.md %}
 
 ### 会议论文
 
-{% include conference.md %}
+{% include publications/conference.md %}
 
 ### 其它论文
 
-{% include other_publication.md %}
+{% include publications/others.md %}
 
 ## 教育经历
 

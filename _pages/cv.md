@@ -13,15 +13,15 @@ redirect_from:
 
 ### Journal Publications
 
-{% include journal.md %}
+{% include publications/journal.md %}
 
 ### Conference Publications
 
-{% include conference.md %}
+{% include publications/conference.md %}
 
 ### Others
 
-{% include other_publication.md %}
+{% include publications/others.md %}
 
 ## Education
 

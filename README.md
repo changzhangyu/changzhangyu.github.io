@@ -16,10 +16,10 @@
   * CV in English: `_pages/cv.md`
   * CV in Chinese: `_pages/zh.md`
 
-* Publications:
-  * Journal publications: `_include/journal.md`
-  * Conference publications: `_include/conference.md`
-  * Other publications: `_include/other_publication.md`
+* Publications: `_include/publications`
+  * Journal publications: `_include/publications/journal.md`
+  * Conference publications: `_include/publications/conference.md`
+  * Other publications: `_include/publications/others.md`
 
 * Blog posts are .md or .html files in `_posts/`
   * File names shall follow the pattern `yyyy-mm-dd-[postname].md` or `yyyy-mm-dd-[postname].html`
