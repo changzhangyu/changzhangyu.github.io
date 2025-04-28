@@ -25,7 +25,7 @@ redirect_from:
 
 ## Education
 
-* **Aug 2015 - Dec 2023** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
+* **Sep 2015 - Dec 2023** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
   * [Department of Computer Science and Engineering (CSE)](http://www.cse.ust.hk)
   * **Doctor of Philosophy** in Computer Science
   * Supervisor: Prof. [Shueng-Han Gary Chan](http://www.cse.ust.hk/~gchan/)

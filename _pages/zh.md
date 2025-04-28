@@ -25,7 +25,7 @@ redirect_from:
 
 ## 教育经历
 
-* **2015年8月 - 2023年12月** [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
+* **2015年9月 - 2023年12月** [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
   * 计算机科学**博士**
   * 导师: [陈双幸](http://www.cse.ust.hk/~gchan/)教授
 
