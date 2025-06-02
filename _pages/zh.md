@@ -42,8 +42,18 @@ redirect_from:
 
 ## 工作经历
 
-* **2018年6月 - 2018年8月** 腾讯视频网络媒体事业群（实习）
+* **2018年6月 - 2018年8月** [腾讯视频](https://v.qq.com/)网络媒体事业群（实习）
   * 优化点对点（P2P）及边缘（Edge）网络视频分发的性能
+
+## 助教经历
+
+* [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
+  * **2017秋** Computer Networks
+  * **2016春** Unix & Script Programming
+  * **2015秋** Operating Systems
+  * **2012秋** Introduction to Computer Science (Python Programming)
+  * **2012夏** Principles of Database Design
+  * **2012春** Design and Analysis of Algorithms
 
 ## 获奖
 

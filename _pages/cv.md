@@ -47,8 +47,18 @@ redirect_from:
 
 ## Work Experience
 
-* **Jun 2018 - Aug 2018** Online Media Group, Tencent Video (Internship)
+* **Jun 2018 - Aug 2018** Online Media Group, [Tencent Video](https://v.qq.com/) (Internship)
   * Optimizing the Performance of P2P and Edge Network for Video Distribution
+
+## Teaching Assistant
+
+* [Department of Computer Science and Engineering (CSE)](http://www.cse.ust.hk), [HKUST](http://www.ust.hk/)
+  * **2017 Fall** Computer Networks
+  * **2016 Spring** Unix & Script Programming
+  * **2015 Fall** Operating Systems
+  * **2012 Fall** Introduction to Computer Science (Python Programming)
+  * **2012 Summer** Principles of Database Design
+  * **2012 Spring** Design and Analysis of Algorithms
 
 ## Awards
 
