@@ -48,12 +48,12 @@ redirect_from:
 ## 助教经历
 
 * [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
-  * **2017秋** Computer Networks
-  * **2016春** Unix & Script Programming
-  * **2015秋** Operating Systems
-  * **2012秋** Introduction to Computer Science (Python Programming)
-  * **2012夏** Principles of Database Design
-  * **2012春** Design and Analysis of Algorithms
+  * **2017秋** [COMP5621] Computer Networks
+  * **2016春** [COMP2021] Unix & Script Programming
+  * **2015秋** [COMP3511] Operating Systems
+  * **2012秋** [COMP1021] Introduction to Computer Science (Python Programming)
+  * **2012夏** [COMP4311] Principles of Database Design
+  * **2012春** [COMP3711] Design and Analysis of Algorithms
 
 ## 获奖
 

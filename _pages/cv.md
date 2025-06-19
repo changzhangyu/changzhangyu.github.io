@@ -53,12 +53,12 @@ redirect_from:
 ## Teaching Assistant
 
 * [Department of Computer Science and Engineering (CSE)](http://www.cse.ust.hk), [HKUST](http://www.ust.hk/)
-  * **2017 Fall** Computer Networks
-  * **2016 Spring** Unix & Script Programming
-  * **2015 Fall** Operating Systems
-  * **2012 Fall** Introduction to Computer Science (Python Programming)
-  * **2012 Summer** Principles of Database Design
-  * **2012 Spring** Design and Analysis of Algorithms
+  * **2017 Fall** [COMP5621] Computer Networks
+  * **2016 Spring** [COMP2021] Unix & Script Programming
+  * **2015 Fall** [COMP3511] Operating Systems
+  * **2012 Fall** [COMP1021] Introduction to Computer Science (Python Programming)
+  * **2012 Summer** [COMP4311] Principles of Database Design
+  * **2012 Spring** [COMP3711] Design and Analysis of Algorithms
 
 ## Awards
 
