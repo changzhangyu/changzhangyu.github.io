@@ -9,20 +9,6 @@ redirect_from:
 
 **Chang, Zhangyu** received his Ph.D. and M.Phil. degrees in Computer Science and Engineering in 2015 and 2023, respectively, from the Hong Kong University of Science and Technology (HKUST) in Hong Kong. He also earned his B.Sc. degree with highest honors in Physics and Computer Science (double major) in 2011 from HKUST. His research interests include multimedia networking, fog/edge computing, and video/location data analytics.
 
-## Publications
-
-### Journal Publications
-
-{% include publications/journal.md %}
-
-### Conference Publications
-
-{% include publications/conference.md %}
-
-### Others
-
-{% include publications/others.md %}
-
 ## Education
 
 * **Sep 2015 - Dec 2023** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
@@ -44,6 +30,20 @@ redirect_from:
   * [Faculty of Mathematics](https://uwaterloo.ca/math/)
   * **Overseas Exchange Program** for 1 Semester
   * Grade Point Average: **A- (83/100)**
+
+## Publications
+
+### Journal Publications
+
+{% include publications/journal.md %}
+
+### Conference Publications
+
+{% include publications/conference.md %}
+
+### Others
+
+{% include publications/others.md %}
 
 ## Work Experience
 
