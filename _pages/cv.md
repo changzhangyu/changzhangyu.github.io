@@ -11,14 +11,14 @@ redirect_from:
 
 ## Education
 
-* **Sep 2015 - Dec 2023** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
+* **Sep 2015 - Jan 2024** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
   * [Department of Computer Science and Engineering (CSE)](http://www.cse.ust.hk)
-  * **Doctor of Philosophy** in Computer Science
+  * **Doctor of Philosophy** in Computer Science and Engineering
   * Supervisor: Prof. [Shueng-Han Gary Chan](http://www.cse.ust.hk/~gchan/)
 
 * **Sep 2011 - Aug 2015** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
   * [Department of Computer Science and Engineering (CSE)](http://www.cse.ust.hk)
-  * **Master of Philosophy** in Computer Science
+  * **Master of Philosophy** in Computer Science and Engineering
   * Supervisor: Prof. [Shueng-Han Gary Chan](http://www.cse.ust.hk/~gchan/)
 
 * **Sep 2007 - Aug 2011** [The Hong Kong University of Science and Technology (HKUST)](http://www.ust.hk/)
@@ -44,6 +44,16 @@ redirect_from:
 ### Others
 
 {% include publications/others.md %}
+
+## Project Experience
+
+* **2017 - 2024** SmartAP: Ubiquitous People Sensing and User Analytics with Wi-Fi
+  * **Supported by** Hong Kong General Research Fund
+  * **Contribution** Developed Lightweight, and Learning-free System for Device Counting, Cutting Estimation Error by 66%.
+
+* **2012 - 2014** Streamphony: A Novel Cost-Effective Video Streaming Cloud over the Global Internet
+  * **Supported by** Hong Kong General Research Fund
+  * **Contribution** Developed Approximation Algorithm to Optimize Deployment Cost, Reducing the Optimization Gap by Multiple Times.
 
 ## Work Experience
 

@@ -11,12 +11,12 @@ redirect_from:
 
 ## 教育经历
 
-* **2015年9月 - 2023年12月** [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
-  * 计算机科学**博士**
+* **2015年9月 - 2024年1月** [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
+  * 计算机科学及工程学**博士**
   * 导师: [陈双幸](http://www.cse.ust.hk/~gchan/)教授
 
 * **2011年9月 - 2015年8月** [香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
-  * 计算机科学**硕士（研究型）**
+  * 计算机科学及工程学**哲学硕士（研究型）**
   * 导师: [陈双幸](http://www.cse.ust.hk/~gchan/)教授
 
 * **2010年1月 - 2010年4月** [滑铁卢大学（加拿大）](https://uwaterloo.ca/) [数学学院](https://uwaterloo.ca/math/)
@@ -39,6 +39,16 @@ redirect_from:
 ### 其它论文
 
 {% include publications/others.md %}
+
+## 项目经历
+
+* **2017年 - 2024年** SmartAP: Ubiquitous People Sensing and User Analytics with Wi-Fi
+  * **资助基金** Hong Kong General Research Fund
+  * **个人贡献** 开发轻量且无需学习机制的Wi-Fi设备数量统计系统，削减了66%的估计误差。
+
+* **2012年 - 2014年** Streamphony: A Novel Cost-Effective Video Streaming Cloud over the Global Internet
+  * **资助基金** Hong Kong General Research Fund
+  * **个人贡献** 开发近似算法优化视频云服务的部署成本，将最优解差距缩小了数倍。
 
 ## 工作经历
 
