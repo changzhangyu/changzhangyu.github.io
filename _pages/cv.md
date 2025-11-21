@@ -57,8 +57,10 @@ redirect_from:
 
 ## Work Experience
 
-* **Jun 2018 - Aug 2018** Online Media Group, [Tencent Video](https://v.qq.com/) (Internship)
+* **Jun 2018 - Aug 2018** **Internship**: Online Media Group, [Tencent Video](https://v.qq.com/)
   * Optimizing the Performance of P2P and Edge Network for Video Distribution
+* **Sep 2018 - Dec 2022** **Research Assistant** [Department of Computer Science and Engineering (CSE)](http://www.cse.ust.hk), [HKUST](http://www.ust.hk/)
+  * Research on Smart City and Multimedia Network
 
 ## Teaching Assistant
 

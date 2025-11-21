@@ -7,7 +7,7 @@ redirect_from:
   - /cv_zh.html
 ---
 
-**常章豫**分别于 2011 年，2015 年和 2023 年获得香港科技大学（HKUST）物理与计算机科学（双主修）学士学位（甲等荣誉学位），计算机科学与工程硕士学位（研究型）和计算机科学与工程博士学位; 研究方向为多媒体网络（Multimedia Networking）、云/边缘计算（Fog/Edge Computing）及基于视频/位置的数据分析（Video/Location Data Analytics）。
+**常章豫**分别于 2011 年，2015 年和 2023 年获得香港科技大学（HKUST）物理与计算机科学（双主修）学士学位（甲等荣誉学位），计算机科学与工程硕士学位（研究型）和计算机科学与工程博士学位; 研究方向为多媒体网络（Multimedia Networking）、雾/边缘计算（Fog/Edge Computing）及基于视频/位置的数据分析（Video/Location Data Analytics）。
 
 ## 教育经历
 
@@ -52,8 +52,10 @@ redirect_from:
 
 ## 工作经历
 
-* **2018年6月 - 2018年8月** [腾讯视频](https://v.qq.com/)网络媒体事业群（实习）
+* **2018年6月 - 2018年8月** **实习**：[腾讯视频](https://v.qq.com/)网络媒体事业群（实习）
   * 优化点对点（P2P）及边缘（Edge）网络视频分发的性能
+* **2018年9月 - 2022年12月** **研究助理**：[香港科技大学（HKUST）](http://www.ust.hk/) [计算机科学及工程系（CSE）](http://www.cse.ust.hk)
+  * 智慧城市（Smart City）及多媒体网络（Multimedia Network）的科研
 
 ## 助教经历
 
